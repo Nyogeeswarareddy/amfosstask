@@ -1,7 +1,6 @@
 #Introspection
 
 ###Why Must We Choose You ?
-
 firstly,I Love to Know Something That New for me.I could help Myself in learning and improving my Knowledge.This is Wonderful Opportunity for me,if I will be in amfoss club.even though Im a fresher,I assure you that I will give my best and work to my fill potential so i can contribute as much as I can.on the other hand,Iam a self motivated person and I try to exceed myself.Spending time with different people might help,Iam very much poor on interacting with person's.
 
 ###How were You before joining and how are You now ?
