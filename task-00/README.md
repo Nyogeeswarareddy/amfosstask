@@ -1,1 +1,1 @@
-click here <a href = "https://dualbootubuntuonwindows.blogspot.com/2020/11/installation-and-dual-booting-of-ubuntu.html">[ Blog on installation of ubuntu through virtualbox ]</a> for ubuntu installation on windows
+click here <a href = "https://drive.google.com/file/d/19UYIB2IHA5qiZWOudAOE3qSFtY_q1tzC/view?usp=drivesdk">[ Blog on installation of ubuntu through virtualbox ]</a> for ubuntu installation on windows
